@@ -8,7 +8,7 @@ Scripts to build the official Ajenti image on Scaleway
 
 This image is built using [Image Tools](https://github.com/scaleway/image-tools) and depends on the official [Ubuntu](https://github.com/scaleway/image-ubuntu) image.
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/8/88/Ovpntech_logo-s_REVISED.png" width="350px" />
+![](https://pbs.twimg.com/profile_images/447385391083945986/LcMWfPrm.png)
 
 
 ---
