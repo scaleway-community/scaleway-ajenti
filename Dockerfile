@@ -11,7 +11,7 @@ RUN /usr/local/sbin/builder-enter
 RUN wget http://repo.ajenti.org/debian/key -O- | apt-key add - \
  && echo "deb http://repo.ajenti.org/debian main main ubuntu" >> /etc/apt/sources.list.d/ajenti.list \
  && apt-get update \
- && apt-get install -y -q
+ && apt-get install -y -q \
     ajenti \
  && apt-get clean
 
